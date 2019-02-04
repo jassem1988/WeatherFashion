@@ -89,41 +89,6 @@ class WeatherDataModel {
                 return "dunno"
             }
         }
-        
-//        switch(condition) {
-//        case 0...300 :
-//            return "010-sweater"
-//
-//        case 301...600 :
-//            return "023-raincoat"
-//
-//        case 601...700 :
-//            return "050-coat"
-//
-//        case 701...771 :
-//            return "019-shirt"
-//
-//        case 772...799 :
-//            return "001-hoodie"
-//
-//        case 800 :
-//            return "002-tank-top"
-//
-//        case 801...804 :
-//            return "028-shirt-1"
-//
-//        case 900...903, 905...1000  :
-//            return "001-hoodie"
-//
-//        case 903 :
-//            return "031-hat"
-//
-//        case 904 :
-//            return "018-flip-flops"
-//
-//        default :
-//            return "dunno"
-//        }
     }
 }
     
